@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          North High School Career Expo 2024
+          North High School Career Expo 2025
         </p>
         <a
           className="App-link"
